@@ -1,4 +1,4 @@
-# 💤 LazyVim
+# 💤 [LazyVim](https://github.com/LazyVim/LazyVim)
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+- [Documentation](https://lazyvim.github.io/installation)
+- Mostly LazyVim, with bit of my changes as per my preference.
